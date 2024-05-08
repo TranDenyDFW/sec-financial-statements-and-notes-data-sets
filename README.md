@@ -46,7 +46,13 @@ sec-financial-statements-and-notes-data-sets
 ├──────3-mdf-ldf-import-size.png  
 ├──────secfsds.bak.z01  
 ├──────secfsds.bak.z02  
-└──────secfsds.bak.zip 
+└──────secfsds.bak.zip  
+
+## note  
+This is a VERY LARGE file, make sure you have enough capacity.  
+![importsize](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/docker-sql-server-bak-zip/3-mdf-ldf-import-size.png)  
+![importsize](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/table-row-count.png)  
+
 ## bs-cf-is-tests
   
 This directory contains images comparing the test results with the actual values shown on the sec.gov website for 10-K filings for Apple and Microsoft (2 examples each).    
