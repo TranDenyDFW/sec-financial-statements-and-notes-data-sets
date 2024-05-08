@@ -49,11 +49,13 @@ sec-financial-statements-and-notes-data-sets
 └──────secfsds.bak.zip 
 ## bs-cf-is-tests
   
-This directory contains images comparing the test results with the actual values shown on the sec.gov website for 10-K filings for Apple and Microsoft (2 examples each).  
+This directory contains images comparing the test results with the actual values shown on the sec.gov website for 10-K filings for Apple and Microsoft (2 examples each).    
+Example of BS query results compared to actual filing:    
+![balance-sheet-query](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/bs-cf-is-tests/bs-cf-is-test1/bsTest_1.png)
   
 ## bs-cf-is-stats
   
-This directory contains images of the statistics of each of the statement queries (BS, IS, CF). 
+This directory contains images of the statistics of each of the statement queries (BS, IS, CF).  
 Example of BS query stats:    
 ![balance-sheet-query-stats](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/bs-cf-is-stats/bs-stats.png)
   
