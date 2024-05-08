@@ -46,13 +46,7 @@ sec-financial-statements-and-notes-data-sets
 ├──────3-mdf-ldf-import-size.png  
 ├──────secfsds.bak.z01  
 ├──────secfsds.bak.z02  
-└──────secfsds.bak.zip  
-    
-## docker-sql-server-bak-zip
-  
-This directory contains the the zipped (download all three files and unzip ONLY the .zip file) MSFT SQL Server .bak file.  
-The images show the file's size when zipped (approx 50GB, split into 20GB+20GB+10GB), when unzipped (approx 500GB), and when imported as LDF and MDF files (approx 1TB).  
-  
+└──────secfsds.bak.zip 
 ## bs-cf-is-tests
   
 This directory contains images comparing the test results with the actual values shown on the sec.gov website for 10-K filings for Apple and Microsoft (2 examples each).  
@@ -63,4 +57,10 @@ This directory contains images of the statistics of each of the statement querie
   
 ## bs-cf-is-explain
   
-This directory contains images of the explain plan for each of the statement queries, similar to the explain plan in SSMS.  
+This directory contains images of the explain plan for each of the statement queries, similar to the explain plan in SSMS.   
+    
+## docker-sql-server-bak-zip
+  
+This directory contains the the zipped (download all three files and unzip ONLY the .zip file) MSFT SQL Server .bak file.  
+The images show the file's size when zipped (approx 50GB, split into 20GB+20GB+10GB), when unzipped (approx 500GB), and when imported as LDF and MDF files (approx 1TB).  
+  
