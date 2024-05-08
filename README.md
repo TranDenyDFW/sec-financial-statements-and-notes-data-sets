@@ -53,8 +53,8 @@ This directory contains images comparing the test results with the actual values
   
 ## bs-cf-is-stats
   
-This directory contains images of the statistics of each of the statement queries (BS, IS, CF). The SQL warnings provide additional information about the database context and table scans.  
-Ex.  
+This directory contains images of the statistics of each of the statement queries (BS, IS, CF). 
+Example of BS query stats:    
 ![balance-sheet-query-stats](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/bs-cf-is-stats/bs-stats.png)
   
 ## bs-cf-is-explain
