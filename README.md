@@ -64,9 +64,12 @@ This directory contains images of the explain plan for each of the statement que
 ## docker-sql-server-bak-zip
   
 This directory contains the the zipped (download all three files and unzip ONLY the .zip file) MSFT SQL Server .bak file.  
-The images show the file's size when zipped (approx 50GB, split into 20GB+20GB+10GB), when unzipped (approx 500GB), and when imported as LDF and MDF files (approx 1TB).  
+The images show the file's size when zipped, when unzipped, and when imported as LDF and MDF files.  
+ZIPPED (approx 50GB, split into 20GB+20GB+10GB)  
 ![zipsize](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/docker-sql-server-bak-zip/1-zip-split-size.png)  
+UNZIPPED BAK (approx 500GB)
 ![baksize](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/docker-sql-server-bak-zip/2-bak-backup-size.png)  
+IMPORTED MDF/LDF (approx 1TB)  
 ![importsize](https://github.com/TranDenyDFW/sec-financial-statements-and-notes-data-sets/blob/main/docker-sql-server-bak-zip/3-mdf-ldf-import-size.png)  
 Download Zipped Files Here: [OneDrive](https://1drv.ms/f/s!Aqm-BwLD86xdgfWOZqv35hgO7gDdbT0?e=EMHeei)  
   
