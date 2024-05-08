@@ -3,7 +3,7 @@
 This repository contains data sets and test results for the SEC Financial Statements and Notes (SEC FS&N) project.
 
 ## Directory Structure  
-Repository Download: https://1drv.ms/f/s!Aqm-BwLD86xdgfWOZsNYA66ShG8g4uk?e=0GHe5m  
+Repository Download: https://1drv.ms/f/s!Aqm-BwLD86xdgfWOZqv35hgO7gDdbT0?e=EMHeei
 The repository has the following structure:  
 sec-financial-statements-and-notes-data-sets  
 │   bs-cf-is-tests.sql  
