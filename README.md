@@ -2,8 +2,8 @@
   
 This repository contains data sets and test results for the SEC Financial Statements and Notes (SEC FS&N) project.
 
-## Directory Structure
-
+## Directory Structure  
+Repository Download: https://1drv.ms/f/s!Aqm-BwLD86xdgfWOZsNYA66ShG8g4uk?e=0GHe5m  
 The repository has the following structure:  
 sec-financial-statements-and-notes-data-sets  
 │   bs-cf-is-tests.sql  
@@ -50,7 +50,8 @@ sec-financial-statements-and-notes-data-sets
     
 ## docker-sql-server-bak-zip
   
-This directory contains the link to the zipped (download all three files and unzip ONLY the .zip file) MSFT SQL Server .bak file. The images show the file's size when zipped (approx 50GB, split into 20GB+20GB+10GB), when unzipped (approx 500GB), and when imported as LDF and MDF files (approx 1TB).  
+This directory contains the the zipped (download all three files and unzip ONLY the .zip file) MSFT SQL Server .bak file.  
+The images show the file's size when zipped (approx 50GB, split into 20GB+20GB+10GB), when unzipped (approx 500GB), and when imported as LDF and MDF files (approx 1TB).  
   
 ## bs-cf-is-tests
   
