@@ -10,43 +10,43 @@ sec-financial-statements-and-notes-data-sets
 │   table-row-count.png  
 │  
 ├───bs-cf-is-explain  
-│       bs.jpg  
-│       cf.jpg  
-│       is.jpg  
+├──────bs.jpg  
+├──────cf.jpg  
+├──────is.jpg  
 │  
 ├───bs-cf-is-stats  
-│       bs-stats.png  
-│       cf-stats.png  
-│       is-stats.png  
+├──────bs-stats.png  
+├──────cf-stats.png  
+├──────is-stats.png  
 │  
 ├───bs-cf-is-tests  
-│   ├───bs-cf-is-test1  
-│   │       bsTest_1.png  
-│   │       cfTest_1.png  
-│   │       isTest_1.png  
+├──────bs-cf-is-test1  
+│   ├──────bsTest_1.png  
+│   ├──────cfTest_1.png  
+│   ├──────isTest_1.png  
 │   │  
 │   ├───bs-cf-is-test2  
-│   │       bsTest_2.png  
-│   │       cfTest_2.png  
-│   │       isTest_2.png  
+│   ├──────bsTest_2.png  
+│   ├──────cfTest_2.png  
+│   ├──────isTest_2.png  
 │   │  
 │   ├───bs-cf-is-test3  
-│   │       bsTest_3.png  
-│   │       cfTest_3.png  
-│   │       isTest_3.png  
+│   ├──────bsTest_3.png  
+│   ├──────cfTest_3.png  
+│   ├──────isTest_3.png  
 │   │  
-│   └───bs-cf-is-test4  
-│           bsTest_4.png  
-│           cfTest_4.png  
-│           isTest_4.png  
+│   ├───bs-cf-is-test4  
+│   ├──────bsTest_4.png  
+│   ├──────cfTest_4.png  
+│   └──────isTest_4.png  
 │  
-└───docker-sql-server-bak-zip  
-        1-zip-split-size.png  
-        2-bak-backup-size.png  
-        3-mdf-ldf-import-size.png  
-        secfsds.bak.z01  
-        secfsds.bak.z02  
-        secfsds.bak.zip  
+├───docker-sql-server-bak-zip  
+├──────1-zip-split-size.png  
+├──────2-bak-backup-size.png  
+├──────3-mdf-ldf-import-size.png  
+├──────secfsds.bak.z01  
+├──────secfsds.bak.z02  
+└──────secfsds.bak.zip  
     
 ## docker-sql-server-bak-zip
   
